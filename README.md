@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @carnevio<br>👀 I’m interested in technology, software development, and creative problem-solving<br>🌱 I’m currently learning C#<br><br>
+👋 Hi, I’m @carnevio<br>👀 I’m interested in technology, software development, and creative problem-solving<br>🌱 I’m currently learning the basics of programming, with a focus on C#<br><br>
 
 
 ## 🌐 Socials:
